@@ -1,5 +1,8 @@
 # Flipcart--customer-review-scrapper-
 
+# web APP link to see the reviews of any product in the flipkart(online shopping site)
+https://customer-review-scrapping-from-flipkart.onrender.com
+
 # Motivation Behind the scrapping
 Every data analysts/ Data scientists have to know the data scrapping because everything will not be available while doing the data analysis of the critical project we have to know web scrapping so that according to the need we can scrap the data over the internet/web and can be used in our part of the process to get more exact results and ultimately this going to get benifitted to the organization/company.
 
